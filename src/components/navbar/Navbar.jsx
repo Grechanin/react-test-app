@@ -12,7 +12,7 @@ function Navbar(props) {
 
   return (
     <nav className="navbar navbar-expand-sm navbar-dark bg-dark">
-      <Link className="navbar-brand" to='/'>React test app</Link>
+      <Link className="navbar-brand" to='/'>React Test App</Link>
       <button className="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarsExample03" aria-controls="navbarsExample03" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>
       </button>
