@@ -2,9 +2,10 @@
   "name": "test-app",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://grechanin.github.io/react-test-app",
+  "homepage": "https://grechanin.github.io/react-test-app",
   "dependencies": {
     "bootstrap": "^4.3.1",
+    "gh-pages": "^2.0.1",
     "material-table": "^1.40.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",

@@ -14,8 +14,8 @@ function App() {
   return (
     <div>
       <Navbar />
-      <Route exact path='/' component={ HomePage } />p
-      <Route exact path='/react-test-ap' component={ HomePage } />
+      <Route exact path='/' component={ HomePage } />
+      <Route exact path='/react-test-app' component={ HomePage } />
       <Route exact path='/registration' component={ Registration } />
       <Route exact path='/login' component={ Login } />
       <Route exact path='/administration' component={ Administration } />
