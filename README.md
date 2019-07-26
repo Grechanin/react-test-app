@@ -1,4 +1,4 @@
-Перегляньте результат за посиланням https://grechanin.github.io/test-react-app/
+Перегляньте результат за посиланням https://grechanin.github.io/react-test-app/
 
 Опис Завдання:
 
