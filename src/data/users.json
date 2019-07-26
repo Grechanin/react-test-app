@@ -1,0 +1,67 @@
+{
+    "users": [
+        {
+            "id": 0,
+            "name": "John",
+            "surname": "Smith",
+            "age": "31",
+            "isActive": true
+        },
+        {
+            "id": 1,
+            "name": "Adam",
+            "surname": "Doe",
+            "age": "21",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Frida",
+            "surname": "Kalo",
+            "age": "27",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Nina",
+            "surname": "Simon",
+            "age": "44",
+            "isActive": false
+        },
+        {
+            "id": 4,
+            "name": "Jorge",
+            "surname": "Michael",
+            "age": "51",
+            "isActive": false
+        },
+        {
+            "id": 5,
+            "name": "Alex",
+            "surname": "Fifth",
+            "age": "28",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Genry",
+            "surname": "Ford",
+            "age": "75",
+            "isActive": false
+        },
+        {
+            "id": 7,
+            "name": "Carl",
+            "surname": "Spencer",
+            "age": "34",
+            "isActive": false
+        },
+        {
+            "id": 8,
+            "name": "Ostap",
+            "surname": "Bender",
+            "age": "36",
+            "isActive": true
+        }
+    ]
+}
