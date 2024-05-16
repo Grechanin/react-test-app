@@ -5,7 +5,7 @@
   "homepage": "https://grechanin.github.io/react-test-app",
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^5.0.0",
     "material-table": "^1.40.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
